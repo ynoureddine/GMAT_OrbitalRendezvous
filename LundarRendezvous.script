@@ -2,7 +2,6 @@
 %Created: 2021-02-18 16:53:58
 
 %This script developed by GMAT creators
-%Edited by Daniel Gochenaur
 %Modified by Youssef Noureddine to incorporate Lunar Rendezvous
 
 
@@ -54,7 +53,6 @@ GMAT MoonSat.AttitudeRateDisplayStateType = 'AngularVelocity';
 GMAT MoonSat.AttitudeCoordinateSystem = EarthMJ2000Eq;
 GMAT MoonSat.EulerAngleSequence = '321';
 %This script developed by GMAT creators
-%Edited by Daniel Gochenaur
 
 
 %----------------------------------------
